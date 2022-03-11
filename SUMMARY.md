@@ -6,3 +6,6 @@
 
 * [프로세스](process/process.md)
 * [프로세스 API](process/process-api.md)
+
+## virtualization
+* [제한적 직접 실행](virtualization/limited-direct-execution.md)
