@@ -10,3 +10,4 @@
 ## virtualization
 * [제한적 직접 실행](virtualization/limited-direct-execution.md)
 * [스케줄링](virtualization/scheduling.md)
+* [멀티 레벨 피드백 큐](virtualization/scheduling-mlfq.md)
