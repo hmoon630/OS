@@ -15,3 +15,4 @@
 * [주소 공간](virtualization/address-space.md)
 * [메모리 관리 API](virtualization/memory-api.md)
 * [주소 변환의 원리](virtualization/address-translation.md)
+* [세그멘테이션](virtualization/segmentation.md)
