@@ -13,3 +13,4 @@
 * [멀티 레벨 피드백 큐](virtualization/scheduling-mlfq.md)
 * [공정 배분](virtualization/scheduling-fair-share.md)
 * [주소 공간](virtualization/address-space.md)
+* [메모리 관리 API](virtualization/memory-api.md)
