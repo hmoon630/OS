@@ -19,3 +19,4 @@
 * [빈 공간 관리](virtualization/free-space-management.md)
 * [페이징](virtualization/paging.md)
 * [페이징: 더 빠른 변환](virtualization/translation-lookaside-buffers.md)
+* [페이징: 더 작은 테이블](virtualization/advanced-page-tables.md)
